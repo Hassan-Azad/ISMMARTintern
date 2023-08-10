@@ -1,0 +1,208 @@
+{
+	"info": {
+		"_postman_id": "6b74e155-6a2a-4a9a-b5f2-2610cb118f05",
+		"name": "Internship",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21834775",
+		"_collection_link": "https://martian-zodiac-72811.postman.co/workspace/TechLift~c948660f-49cf-4b68-b99d-58f7b0bc5f16/collection/21834775-6b74e155-6a2a-4a9a-b5f2-2610cb118f05?action=share&creator=21834775&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Authentication",
+			"item": [
+				{
+					"name": "Signup",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"name\": \"Ahmad Hassan\",\r\n    \"email\": \"ahmadhassan@gmail.com\",\r\n    \"password\": \"Admin.123\",\r\n    \"confirmPassword\": \"Admin.123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{SERVER_URL}}/signup",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"signup"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"email\": \"tauheedbutt@gmail.com\",\r\n    \"password\": \"Admin.123\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{SERVER_URL}}/login",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Toll",
+			"item": [
+				{
+					"name": "Mark Entry",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"entryPoint\": \"Islamabad\",\r\n    \"day\": 1678616941391,\r\n    \"numberPlate\": \"ASD-1260\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{SERVER_URL}}/entry",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"entry"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Mark Exit",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"exitPoint\": \"Rawalpindi\",\r\n    \"distance\": 12\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{SERVER_URL}}/exit/{{TOLL_ID}}",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"exit",
+								"{{TOLL_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete Toll",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{SERVER_URL}}/tolls/{{TOLL_ID}}",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"tolls",
+								"{{TOLL_ID}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Tolls",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{SERVER_URL}}/tolls",
+							"host": [
+								"{{SERVER_URL}}"
+							],
+							"path": [
+								"tolls"
+							],
+							"query": [
+								{
+									"key": "limit",
+									"value": "1",
+									"disabled": true
+								},
+								{
+									"key": "page",
+									"value": "1",
+									"disabled": true
+								},
+								{
+									"key": "numberPlate",
+									"value": "",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"auth": {
+				"type": "bearer",
+				"bearer": [
+					{
+						"key": "token",
+						"value": "{{USER_TOKEN}}",
+						"type": "string"
+					}
+				]
+			},
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		}
+	]
+}
