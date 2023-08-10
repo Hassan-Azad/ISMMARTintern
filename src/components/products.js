@@ -12,7 +12,7 @@ const products = [
   {
     id: 1,
     name: "AEROREADY SHIRT",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "100",
@@ -22,7 +22,7 @@ const products = [
   {
     id: 2,
     name: "WIRELESS EARBUDS",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "200",
@@ -32,7 +32,7 @@ const products = [
   {
     id: 3,
     name: "HOODED PARKA",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "100",
@@ -42,7 +42,7 @@ const products = [
   {
     id: 4,
     name: "METAL BOTTLE",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "70",
@@ -52,7 +52,7 @@ const products = [
   {
     id: 5,
     name: "SILVER METAL",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "150",
@@ -62,7 +62,7 @@ const products = [
   {
     id: 6,
     name: "BLACK HAT",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "10",
@@ -72,7 +72,7 @@ const products = [
   {
     id: 7,
     name: "BACKPACK",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "40",
@@ -82,7 +82,7 @@ const products = [
   {
     id: 8,
     name: "UL TRABOOST 22",
-    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing optimal support and a restful sleep every night.",
+    des: "Experience ultimate comfort with our premium MemoryCloud Pillow providing...",
     detail_des:
       "E-commerce products are items or services available for purchase through online platforms, enabling consumers to shop conveniently from their devices. These products encompass a wide range, including electronics, clothing, home goods, digital downloads, and more. E-commerce platforms offer a seamless shopping experience, providing product descriptions, images, reviews, and secure payment options. Customers can compare prices, read reviews, and make informed decisions before placing orders. The products are often delivered to the customer's doorstep, enhancing convenience. With the global reach of e-commerce, customers can access an extensive variety of products from different vendors and regions, making online shopping a ubiquitous and accessible phenomenon.",
     list_price: "500",

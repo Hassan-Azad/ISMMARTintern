@@ -11,7 +11,7 @@ function Card() {
       <div>
         <div
           key={product.id}
-          className="shadow-[0_0_10px_3px] shadow-slate-400 w-80 lg:w-64 lg:h-[450px] h-[500px] bg-slate-300 mx-7 my-8"
+          className="shadow-[0_0_10px_3px] shadow-slate-400 w-80 lg:w-64 lg:h-[430px] h-[480px] bg-slate-300 mx-7 my-8"
         >
           <Link to={`/products/${product.id}`}>
             <img className=" w-80 md:w-64 h-auto" src={product.image}></img>
