@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c514d266.css",
+    "main.js": "/static/js/main.55782097.js",
+    "static/js/787.ee8abbec.chunk.js": "/static/js/787.ee8abbec.chunk.js",
+    "static/media/1.jpg": "/static/media/1.c13c584e12feb24202b6.jpg",
+    "static/media/3.png": "/static/media/3.df022ad1654e96cb029b.png",
+    "static/media/Ismmartlogo.png": "/static/media/Ismmartlogo.ea8c393e7c8f4dec2ebf.png",
+    "static/media/product7.jpg": "/static/media/product7.10d45cb9b6ff14059e25.jpg",
+    "static/media/2.jpg": "/static/media/2.cba633ce58152070313e.jpg",
+    "static/media/product3.jpg": "/static/media/product3.705294663ebba6346d26.jpg",
+    "static/media/product6.jpg": "/static/media/product6.d6c19c541c144fa5fd65.jpg",
+    "static/media/product2.jpg": "/static/media/product2.734b2251f8483998549e.jpg",
+    "static/media/product8.jpg": "/static/media/product8.dc81713e89fd74ea5e96.jpg",
+    "static/media/footer.jpeg": "/static/media/footer.152cb259ccf9f4992112.jpeg",
+    "static/media/product5.jpg": "/static/media/product5.9c416d5d89fbba9addf6.jpg",
+    "static/media/product1.jpg": "/static/media/product1.572d39b0d0286e34f2a9.jpg",
+    "static/media/product4.jpg": "/static/media/product4.9f7970cc32c0a98ea001.jpg",
+    "static/media/bucket.png": "/static/media/bucket.54d0b94a1498a33a4fc3.png",
+    "index.html": "/index.html",
+    "main.c514d266.css.map": "/static/css/main.c514d266.css.map",
+    "main.55782097.js.map": "/static/js/main.55782097.js.map",
+    "787.ee8abbec.chunk.js.map": "/static/js/787.ee8abbec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c514d266.css",
+    "static/js/main.55782097.js"
+  ]
+}
