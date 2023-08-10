@@ -16,7 +16,7 @@
     "react-social-icons": "^5.15.0",
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4",
-    "homepage": "https://hassan-azad.github.io/ISMMARTintern"
+    "homepage": "https://hassan-azad.github.io/ISMMARTintern/"
   },
   "scripts": {
     "start": "react-scripts start",
