@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ISMMARTintern/static/css/main.c514d266.css",
-    "main.js": "/ISMMARTintern/static/js/main.301ae950.js",
+    "main.css": "/ISMMARTintern/static/css/main.36d916c0.css",
+    "main.js": "/ISMMARTintern/static/js/main.3fc85632.js",
     "static/js/787.ee8abbec.chunk.js": "/ISMMARTintern/static/js/787.ee8abbec.chunk.js",
     "static/media/1.jpg": "/ISMMARTintern/static/media/1.c13c584e12feb24202b6.jpg",
     "static/media/3.png": "/ISMMARTintern/static/media/3.df022ad1654e96cb029b.png",
@@ -18,12 +18,12 @@
     "static/media/product4.jpg": "/ISMMARTintern/static/media/product4.9f7970cc32c0a98ea001.jpg",
     "static/media/bucket.png": "/ISMMARTintern/static/media/bucket.54d0b94a1498a33a4fc3.png",
     "index.html": "/ISMMARTintern/index.html",
-    "main.c514d266.css.map": "/ISMMARTintern/static/css/main.c514d266.css.map",
-    "main.301ae950.js.map": "/ISMMARTintern/static/js/main.301ae950.js.map",
+    "main.36d916c0.css.map": "/ISMMARTintern/static/css/main.36d916c0.css.map",
+    "main.3fc85632.js.map": "/ISMMARTintern/static/js/main.3fc85632.js.map",
     "787.ee8abbec.chunk.js.map": "/ISMMARTintern/static/js/787.ee8abbec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c514d266.css",
-    "static/js/main.301ae950.js"
+    "static/css/main.36d916c0.css",
+    "static/js/main.3fc85632.js"
   ]
 }
